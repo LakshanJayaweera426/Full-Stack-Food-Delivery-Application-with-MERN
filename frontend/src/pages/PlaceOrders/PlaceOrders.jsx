@@ -3,7 +3,7 @@ import './PlaceOrders.css'
 
 const PlaceOrders = () => {
   return (
-    <div>PlaceOrders</div>
+    <div></div>
   )
 }
 
